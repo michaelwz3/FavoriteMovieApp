@@ -54,8 +54,11 @@ public class Register extends AppCompatActivity {
            }
         });
         // closes register screen and goes back to log in
-        binding.backToLoginButton.setOnClickListener(v -> {
-            finish();
+        binding.backToLoginText.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
         });
     }
 

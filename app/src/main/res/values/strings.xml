@@ -59,4 +59,5 @@
     <string name="tbdYear">TBD</string>
     <string name="tbdRating">TBD</string>
     <string name="heart">♡</string>
+    <string name="addMoviesToFavorites">ADD MOVIES TO FAVORITES!</string>
 </resources>
