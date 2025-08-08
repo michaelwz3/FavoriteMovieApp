@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840030627513",
+    "project_id": "fir-authstore-59854",
+    "storage_bucket": "fir-authstore-59854.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840030627513:android:34b6e1eba3d449f5841d68",
+        "android_client_info": {
+          "package_name": "ca.georgiancollege.favoritemovieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqtuKI6KtW-3jKflF8Cyu4ahnXDn0X83Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
